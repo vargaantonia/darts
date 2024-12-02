@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/darts/static/css/main.e122fc75.css",
+    "main.js": "/darts/static/js/main.648e5489.js",
+    "static/media/bootstrap-icons.woff?": "/darts/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/darts/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/darts/index.html",
+    "main.e122fc75.css.map": "/darts/static/css/main.e122fc75.css.map",
+    "main.648e5489.js.map": "/darts/static/js/main.648e5489.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e122fc75.css",
+    "static/js/main.648e5489.js"
+  ]
+}
